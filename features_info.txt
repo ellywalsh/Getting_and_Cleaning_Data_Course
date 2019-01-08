@@ -1,0 +1,23 @@
+Feature Selection 
+=================
+
+The features selected for this database come from the accelerometer and gyroscope 3-axial signals in the Human Activity Recognition Using Smartphones Dataset.
+
+The following features were selected from the original data (raw data means and standard deviations were calculated from sensor signals as described in original data set documentation):
+
+gravityMean
+tBodyAccMean
+tBodyAccJerkMean
+tBodyGyroMean
+tBodyGyroJerkMean
+gravityStd
+tBodyAccStd
+tBodyAccJerkStd
+tBodyGyroStd
+tBodyGyroJerkStd
+
+These features (including the x, y, z components of each variable where applicable) were averaged by each of 30 subjects for each of six activities.
+
+The complete list of variables of each feature vector is available in 'features.txt'
+The complete list of activity names is available in 'activities.txt'
+
