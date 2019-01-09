@@ -57,51 +57,68 @@ TOTAL BODY GYROSCOPIC JERK: AVERAGES OF MEAN AND STANDARD DEVIATION IN X, Y, Z, 
 TOTAL BODY ACCELERATION MAGNITUDE: AVERAGE OF MEAN AND STANDARD DEVIATION </br>
 33. Mean T Body Acceleration Mag </br>
 34. Std T Body Acceleration Mag </br>
+</br
+TOTAL GRAVITATIONAL ACCELERATION MAGNITUDE: AVERAGE OF MEAN AND STANDARD DEVIATION </br>
+35. Mean T Gravitational Acceleration Mag </br>
+36. Std T Gravitational Acceleration Mag </br>
 </br>
 TOTAL BODY GYROSCOPIC MAGNITUDE: AVERAGE OF MEAN AND STANDARD DEVIATION </br>
-35. Mean T Body Gyro Mag </br>
-36. Std T Body Gyro Mag </br>
+37. Mean T Body Gyro Mag </br>
+38. Std T Body Gyro Mag </br>
 </br>
 TOTAL BODY GYROSCOPIC JERK MAGNITUDE: AVERAGE OF MEAN AND STANDARD DEVIATION </br>
-37. Mean T Body Gyro Jerk Mag </br>
-38. Std T Body Gyro Jerk Mag </br>
+39. Mean T Body Gyro Jerk Mag </br>
+40. Std T Body Gyro Jerk Mag </br>
 </br>
 FAST FOURIER TRANSFORM BODY ACCELERATION: AVERAGES OF MEAN AND STANDARD DEVIATION IN X, Y, Z PLANES </br>
-39. Mean F Body Acceleration X  </br>
-40. Mean F Body Acceleration Y </br>
-41. Mean F Body Acceleration Z  </br>
-42. Std Dev F Body Acceleration X </br>
-43. Std Dev F Body Acceleration Y </br>
-44. Std Dev F Body Acceleration Z </br>
+41. Mean F Body Acceleration X  </br>
+42. Mean F Body Acceleration Y </br>
+43. Mean F Body Acceleration Z  </br>
+44. Std Dev F Body Acceleration X </br>
+45. Std Dev F Body Acceleration Y </br>
+46. Std Dev F Body Acceleration Z </br>
+47. Mean F Body Acceleration Freqency X  </br>
+48. Mean F Body Acceleration Freqency Y </br>
+49. Mean F Body Acceleration Freqency Z  </br>
 </br>
 FAST FOURIER TRANSFORM BODY ACCELERATION JERK: AVERAGES OF MEAN AND STANDARD DEVIATION IN X, Y, Z, Planes </br>
-45. Mean F Body Acceleration Jerk X </br>
-46. Mean F Body Acceleration Jerk Y </br>
-47. Mean F Body Acceleration Jerk Z </br>
-48. Std Dev F Body Acceleration Jerk X </br>
-49. Std Dev F Body Acceleration Jerk Y </br>
-50. Std Dev F Body Acceleration Jerk Z </br>
+50. Mean F Body Acceleration Jerk X </br>
+51. Mean F Body Acceleration Jerk Y </br>
+52. Mean F Body Acceleration Jerk Z </br>
+53. Std Dev F Body Acceleration Jerk X </br>
+54. Std Dev F Body Acceleration Jerk Y </br>
+55. Std Dev F Body Acceleration Jerk Z </br>
+56. Mean F Body Acceleration Jerk Freqency X  </br>
+57. Mean F Body Acceleration Jerk Freqency Y </br>
+58. Mean F Body Acceleration Jerk Freqency Z  </br>
 </br>
 FAST FOURIER TRANSFORM BODY GYROSCOPIC: AVERAGES OF MEAN AND STANDARD DEVIATION IN X, Y, Z, Planes </br>
-51. Mean F Body Gyro X </br>
-52. Mean F Body Gyro Y </br>
-53. Mean F Body Gyro Z </br>
-54. Std F Body Gyro X </br>
-55. Std F Body Gyro Y </br>
-56. Std F Body Gyro Z </br>
+59. Mean F Body Gyro X </br>
+60. Mean F Body Gyro Y </br>
+61. Mean F Body Gyro Z </br>
+62. Std F Body Gyro X </br>
+63. Std F Body Gyro Y </br>
+64. Std F Body Gyro Z </br>
+65. Mean F Body Gyro Frequency X </br>
+66. Mean F Body Gyro Frequency Y </br>
+67. Mean F Body Gyro Frequency Z </br>
 </br>
 FAST FOURIER TRANSFORM BODY ACCELERATION MAGNITUDE: AVERAGE OF MEAN AND STANDARD DEVIATION </br>
-57. Mean F Body Acceleration Mag </br>
-58. Std F Body Acceleration Mag </br>
+68. Mean F Body Acceleration Mag </br>
+69. Std F Body Acceleration Mag </br>
+70. Mean F Body Acceleration Mag Frequency </br>
 </br>
 FAST FOURIER TRANSFORM ACCELERATION JERK  MAGNITUDE: AVERAGE OF MEAN AND STANDARD DEVIATION </br>
-59. Mean F Acceleration Jerk Mag </br>
-60. Std F Acceleration Jerk  Mag </br>
+71. Mean F Acceleration Jerk Mag </br>
+72. Std F Acceleration Jerk  Mag </br>
+73. Mean F Acceleration Jerk Mag  Frequency </br>
 </br>
 FAST FOURIER TRANSFORM BODY GYROSCOPIC MAGNITUDE: AVERAGE OF MEAN AND STANDARD DEVIATION </br>
-61. Mean F Body Gyro Mag </br>
-62. Std F Body Gyro Mag </br>
+74. Mean F Body Gyro Mag </br>
+75. Std F Body Gyro Mag </br>
+76. Mean F Body Gyro Mag Frequency </br>
 </br>
 FAST FOURIER TRANSFORM BODY GYROSCOPIC MAGNITUDE: AVERAGE OF MEAN AND STANDARD DEVIATION </br>
-63. Mean F Body Body Gyro Jerk Mag </br>
-64. Std F Body Body Gyro Jerk Mag </br>
+77. Mean F Body Body Gyro Jerk Mag </br>
+78. Std F Body Body Gyro Jerk Mag </br>
+79.  Mean F Body Body Gyro Jerk Mag Frequency </br>
