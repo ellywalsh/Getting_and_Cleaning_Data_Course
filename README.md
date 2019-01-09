@@ -17,14 +17,14 @@ www.smartlab.ws
 ==================================================================
 
 Analyses performed:
-Data from the original data set was transformed. Training and test data sets were combined and all 81 standard deviation and mean features were isolated from the data set. These were then grouped by subject and by activity. An average value for each feature for each activity by subject was calculated. 
+Data from the original data set was transformed. Training and test data sets were combined and all 77 standard deviation and mean features were isolated from the data set. These were then grouped by subject and by activity. An average value for each feature for each activity by subject was calculated. 
 
 For each record it is provided:
 ======================================
 
 - Averages of mean and standard deviations of triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration calculated per subject per activity..
 - Averages of mean and standard deviations of triaxial Angular velocity from the gyroscope calculated per subject per activity.
-- A 81-feature vector with time and frequency domain variables which includes all mean and standard deviation measurements from the original data set. 
+- A 77-feature vector with time and frequency domain variables which includes all mean and standard deviation measurements from the original data set. 
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
